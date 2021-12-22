@@ -18,7 +18,7 @@ async def start(client, message):
     if message.chat.type in ['group', 'supergroup']:
         buttons = [
             [
-                InlineKeyboardButton('updates', url='https://t.me/josprojects')
+                InlineKeyboardButton('🥸 updates', url='https://t.me/josprojects')
             ],
             [
                 InlineKeyboardButton('help', url=f"https://t.me/{temp.U_NAME}?start=help"),
@@ -85,12 +85,12 @@ async def start(client, message):
         return
     if len(message.command) ==2 and message.command[1] in ["subscribe", "error", "okay", "help"]:
         buttons = [[
-            InlineKeyboardButton('Add me to your Chat', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
+            InlineKeyboardButton('➕ 𝗮𝗱𝗱 𝗰𝗵𝗮𝘁 ➕', url=f'http://t.me/@Noruto321_bot?startgroup=true')
             ],[
-            InlineKeyboardButton('help', callback_data='help'),
-            InlineKeyboardButton('about', callback_data='about')
+            InlineKeyboardButton('😎 𝗵𝗲𝗹𝗽 ', callback_data='help'),
+            InlineKeyboardButton('😇 𝗮𝗯𝗼𝘂𝘁 ', callback_data='about')
             ],[
-            InlineKeyboardButton('search here movie', switch_inline_query_current_chat='')
+            InlineKeyboardButton('🔎 𝘀𝗲𝗮𝗿𝗰𝗵 ', switch_inline_query_current_chat='')
             ],[
             InlineKeyboardButton('updates', url='https://t.me/josprojects'),
             InlineKeyboardButton('movie club', url='https://t.me/+y53tWFUw6Q43NzE9')
@@ -173,7 +173,7 @@ async def delete(bot, message):
     """Delete file from database"""
     reply = message.reply_to_message
     if reply and reply.media:
-        msg = await message.reply("Processing...⏳", quote=True)
+        msg = await message.reply("Processing....⏳", quote=True)
     else:
         await message.reply('Reply to file with /delete which you want to delete', quote=True)
         return
