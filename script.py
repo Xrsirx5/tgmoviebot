@@ -59,6 +59,9 @@ Source: <a href='https://github.com/josprojects/tgmoviebot'>GitHub - Click here 
 <b>Alert buttons:</b>
 <code>[Button Text](buttonalert:This is an alert message)</code>"""
 
+    BUG_TXT = """Help: <b> Here my bug fixing developers </b>
+<a href='https://github.com/josprojects/tgmoviebot'>GitHub - Click here 👈</a>
+
     AUTOFILTER_TXT = """Help: <b>Auto Filter</b>
 
 <b>NOTE:</b>
