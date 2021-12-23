@@ -60,37 +60,38 @@ Source: <a href='https://github.com/josprojects/tgmoviebot'>GitHub - Click here 
 <code>[Button Text](buttonalert:This is an alert message)</code>"""
 
     BUG_TXT = """Help: <b> Here my bug fixing developers </b>
-<a href='https://github.com/josprojects/tgmoviebot'>GitHub - Click here 👈</a>
+𝗪𝗲 𝗮𝗿𝗲 𝗻𝗼𝘁 𝘀𝗲𝗲𝗻 𝗮𝗻𝘆 𝗯𝘂𝗴 𝘀𝗼 𝗶𝗳 𝘆𝗼𝘂 𝘀𝗲𝗲𝗻 𝗮𝗻𝘆 𝗯𝘂𝗴 𝘀𝗼 𝗽𝗹𝗲𝗮𝘀𝗲 𝗿𝗲𝗽𝗼𝗿𝘁 𝗶𝘁
+<a href='https://t.me/Alifmuhammad_tg'>𝗔𝗹𝗶𝗳 𝗺𝘂𝗵𝗮𝗺𝗺𝗲𝗱</a>
 
     AUTOFILTER_TXT = """Help: <b>Auto Filter</b>
 
 <b>NOTE:</b>
-1. Make me the admin of your channel if it's private.
-2. Make sure that your channel does not contains camrips, porn and fake files.
-3. Forward the last message to me with quotes.
- I'll add all the files in that channel to my db."""
+𝟭. 𝗠𝗮𝗸𝗲 𝗺𝗲 𝘁𝗵𝗲 𝗮𝗱𝗺𝗶𝗻 𝗼𝗳 𝘆𝗼𝘂𝗿 𝗰𝗵𝗮𝗻𝗻𝗲𝗹 𝗶𝗳 𝗶𝘁'𝘀 𝗽𝗿𝗶𝘃𝗮𝘁𝗲.
+𝟮. 𝗠𝗮𝗸𝗲 𝘀𝘂𝗿𝗲 𝘁𝗵𝗮𝘁 𝘆𝗼𝘂𝗿 𝗰𝗵𝗮𝗻𝗻𝗲𝗹 𝗱𝗼𝗲𝘀 𝗻𝗼𝘁 𝗰𝗼𝗻𝘁𝗮𝗶𝗻𝘀 𝗰𝗮𝗺𝗿𝗶𝗽𝘀, 𝗽𝗼𝗿𝗻 𝗮𝗻𝗱 𝗳𝗮𝗸𝗲 𝗳𝗶𝗹𝗲𝘀.
+𝟯. 𝗙𝗼𝗿𝘄𝗮𝗿𝗱 𝘁𝗵𝗲 𝗹𝗮𝘀𝘁 𝗺𝗲𝘀𝘀𝗮𝗴𝗲 𝘁𝗼 𝗺𝗲 𝘄𝗶𝘁𝗵 𝗾𝘂𝗼𝘁𝗲𝘀.
+ 𝗜'𝗹𝗹 𝗮𝗱𝗱 𝗮𝗹𝗹 𝘁𝗵𝗲 𝗳𝗶𝗹𝗲𝘀 𝗶𝗻 𝘁𝗵𝗮𝘁 𝗰𝗵𝗮𝗻𝗻𝗲𝗹 𝘁𝗼 𝗺𝘆 𝗱𝗯."""
 
     CONNECTION_TXT = """Help: <b>Connections</b>
 
 - Used to connect bot to PM for managing filters 
-- It helps to avoid spamming in groups.
+- 𝗜𝘁 𝗵𝗲𝗹𝗽𝘀 𝘁𝗼 𝗮𝘃𝗼𝗶𝗱 𝘀𝗽𝗮𝗺𝗺𝗶𝗻𝗴 𝗶𝗻 𝗴𝗿𝘂𝗼𝗽.
 
 <b>NOTE:</b>
-1. Only admins can add a connection.
-2. Send <code>/connect</code> for connecting me to ur PM
+1. 𝗢𝗻𝗹𝘆 𝗮𝗱𝗺𝗶𝗻𝘀 𝗰𝗮𝗻 𝗮𝗱𝗱 𝗮 𝗰𝗼𝗻𝗻𝗲𝗰𝘁𝗶𝗼𝗻.
+2. 𝗦𝗲𝗻𝘁 <code>/connect</code> 𝗳𝗼𝗿 𝗰𝗼𝗻𝗻𝗲𝗰𝘁𝗶𝗻𝗴 𝗺𝗲 𝘁𝗼 𝘆𝗼𝘂𝗿 𝗽𝗺
 
 <b>Commands and Usage:</b>
-• /connect  - connect a particular chat to your PM.
-• /disconnect  - disconnect from a chat.
-• /connections - list all your connections."""
+• /connect  - 𝗰𝗼𝗻𝗻𝗲𝗰𝘁 𝗮 𝗽𝗮𝗿𝘁𝗶𝗰𝘂𝗹𝗮𝗿 𝗰𝗵𝗮𝘁 𝘁𝗼 𝘆𝗼𝘂𝗿 𝗣𝗠.
+• /disconnect  - 𝗱𝗶𝘀𝗰𝗼𝗻𝗻𝗲𝗰𝘁 𝗳𝗿𝗼𝗺 𝗮 𝗰𝗵𝗮𝘁.
+• /connections - 𝗹𝗶𝘀𝘁 𝗼𝗳 𝗮𝗹𝗹 𝘆𝗼𝘂𝗿 𝗰𝗼𝗻𝗻𝗲𝗰𝘁𝗶𝗼𝗻𝘀."""
 
     AUTO_MANUAL_TXT = """Help: <b>Filters</b>
 
-<b>Select a filters type Below:</b>"""
+𝘀𝗲𝗹𝗲𝗰𝘁 𝗮 𝗳𝗶𝗹𝘁𝗲𝗿𝘀 𝘁𝘆𝗽𝗲 𝗯𝗲𝗹𝗼𝘄:"""
 
     PASTE_TXT = """Help: <b>Paste</b>
 
-Paste some texts or documents on a website!
+𝗣𝗮𝘀𝘁𝗲 𝘀𝗼𝗺𝗲 𝘁𝗲𝘅𝘁 𝗼𝗿 𝗱𝗼𝗰𝘂𝗺𝗲𝗻𝘁 𝗼𝗻 𝘀 𝘄𝗲𝗯𝘀𝗶𝘁𝗲!
 
 <b>Commands and Usage:</b>
 • /paste [text] - paste the given text on Pasty
@@ -123,9 +124,9 @@ Get information about something!
 • /json - get the json details of a message.
 
 <b>NOTE:</b>
-• IMDb should have admin privillage.
-• These commands works on both pm and group.
-• These commands can be used by any group member."""
+• 𝗜𝗠𝗗𝗯 𝘀𝗵𝗼𝘂𝗹𝗱 𝗵𝗮𝘃𝗲 𝗮𝗱𝗺𝗶𝗻 𝗽𝗿𝗶𝘃𝗶𝗹𝗹𝗮𝗴𝗲.
+• 𝗧𝗵𝗲𝘀𝗲 𝗰𝗼𝗺𝗺𝗮𝗻𝗱𝘀 𝘄𝗼𝗿𝗸𝘀 𝗼𝗻 𝗯𝗼𝘁𝗵 𝗽𝗺 𝗮𝗻𝗱 𝗴𝗿𝗼𝘂𝗽.
+• 𝗧𝗵𝗲𝘀𝗲 𝗰𝗼𝗺𝗺𝗮𝗻𝗱𝘀 𝗰𝗮𝗻 𝗯𝗲 𝘂𝘀𝗲𝗱 𝗯𝘆 𝗮𝗻𝘆 𝗴𝗿𝗼𝘂𝗽 𝗺𝗲𝗺𝗯𝗲𝗿."""
 
     GTRANS_TXT = """Help: <b>Google Translator</b>
 
@@ -135,9 +136,9 @@ Translate texts to a specific language!
 • /tr [language code][reply] - translate replied message to specific language.
 
 <b>NOTE:</b>
-• IMDb should have admin privillage.
-• These commands works on both pm and group.
-• IMDb can translate texts to 200+ languages."""
+• 𝗜𝗠𝗗𝗯 𝘀𝗵𝗼𝘂𝗹𝗱 𝗵𝗮𝘃𝗲 𝗮𝗱𝗺𝗶𝗻 𝗽𝗿𝗶𝘃𝗶𝗹𝗹𝗮𝗴𝗲.
+• 𝗧𝗵𝗲𝘀𝗲 𝗰𝗼𝗺𝗺𝗮𝗻𝗱𝘀 𝘄𝗼𝗿𝗸𝘀 𝗼𝗻 𝗯𝗼𝘁𝗵 𝗽𝗺 𝗮𝗻𝗱 𝗴𝗿𝗼𝘂𝗽.
+• 𝗧𝗵𝗲𝘀𝗲 𝗰𝗼𝗺𝗺𝗮𝗻𝗱𝘀 𝗰𝗮𝗻 𝗯𝗲 𝘂𝘀𝗲𝗱 𝗯𝘆 𝗮𝗻𝘆 𝗴𝗿𝗼𝘂𝗽 𝗺𝗲𝗺𝗯𝗲𝗿."""
 
     SEARCH_TXT = """Help: <b>IMDb</b>
 
@@ -148,9 +149,9 @@ Search many things without leaving telegram!
 • /search  - get the film information from various sources.
 
 <b>NOTE:</b>
-• IMDb should have admin privillage.
-• More search tools can be found on inline.
-• Those commands works on both pm and group."""
+• 𝗜𝗠𝗗𝗯 𝘀𝗵𝗼𝘂𝗹𝗱 𝗵𝗮𝘃𝗲 𝗮𝗱𝗺𝗶𝗻 𝗽𝗿𝗶𝘃𝗶𝗹𝗹𝗮𝗴𝗲.
+• 𝗧𝗵𝗲𝘀𝗲 𝗰𝗼𝗺𝗺𝗮𝗻𝗱𝘀 𝘄𝗼𝗿𝗸𝘀 𝗼𝗻 𝗯𝗼𝘁𝗵 𝗽𝗺 𝗮𝗻𝗱 𝗴𝗿𝗼𝘂𝗽.
+• 𝗧𝗵𝗲𝘀𝗲 𝗰𝗼𝗺𝗺𝗮𝗻𝗱𝘀 𝗰𝗮𝗻 𝗯𝗲 𝘂𝘀𝗲𝗱 𝗯𝘆 𝗮𝗻𝘆 𝗴𝗿𝗼𝘂𝗽 𝗺𝗲𝗺𝗯𝗲𝗿."""
 
     PURGE_TXT = """Help: <b>Purge</b>
 
@@ -171,25 +172,25 @@ Some people need to be publicly banned; spammers, annoyances, or just trolls.
 This module allows you to do that easily, by exposing some common actions, so everyone will see!
 
 <b>Commands and Usage:</b>
-• /ban - ban a user.
-• /tban - temporarily ban a user. Example time values: 4m = 4 minutes, 3h = 3 hours, 6d = 6 days, 5w = 5 weeks.
+• /ban - 𝗯𝗮𝗻 𝗮 𝘂𝘀𝗲𝗿.
+• /tban - 𝘁𝗲𝗺𝗽𝗼𝗿𝗮𝗿𝗶𝗹𝘆 𝗯𝗮𝗻 𝗮 𝘂𝘀𝗲𝗿. 𝗘𝘅𝗮𝗺𝗽𝗹𝗲 𝘁𝗶𝗺𝗲 𝘃𝗮𝗹𝘂𝗲: 4m = 4 minutes, 3h = 3 hours, 6d = 6 days, 5w = 5 weeks.
 • /mute - mute a user.
-• /tmute - temporarily mute a user. Example time values: 4m = 4 minutes, 3h = 3 hours, 6d = 6 days, 5w = 5 weeks.
-• /unban or /unmute - unmute a user & unban a user.
+• /tmute - 𝘁𝗲𝗺𝗽𝗼𝗿𝗮𝗿𝗶𝗹𝘆 𝗺𝘂𝘁𝗲 𝗮 𝘂𝘀𝗲𝗿. 𝗘𝘅𝗽𝗮𝗺𝗽𝗹𝗲 𝘁𝗶𝗺𝗲 𝘃𝗮𝗹𝘂𝗲: 4m = 4 minutes, 3h = 3 hours, 6d = 6 days, 5w = 5 weeks.
+• /unban or /unmute - 𝘂𝗻𝗺𝘂𝘁𝗲 𝗮 𝘂𝘀𝗲𝗿 𝗮𝗻𝗱 𝘂𝗻𝗯𝗮𝗻 𝗮 𝘂𝘀𝗲𝗿.
 
 <b>Examples:</b>
-- Mute a user for two hours.
--> <code>/tmute @username 2h</code>
+- 𝗠𝘂𝘁𝗲 𝗮 𝘂𝘀𝗲𝗿 𝗳𝗼𝗿 𝘁𝘄𝗼 𝗵𝗼𝘂𝗿𝘀.
+-> <code>/tmute @username 2𝗵</code>
 
 <b>NOTE:</b>
-• IMDb should have admin privillage.
-• These commands works on group.
-• These commands can be used by Only admin."""
+• 𝗜𝗠𝗗𝗯 𝘀𝗵𝗼𝘂𝗹𝗱 𝗵𝗮𝘃𝗲 𝗮𝗱𝗺𝗶𝗻 𝗽𝗿𝗶𝘃𝗶𝗹𝗹𝗮𝗴𝗲.
+• 𝗧𝗵𝗲𝘀𝗲 𝗰𝗼𝗺𝗺𝗮𝗻𝗱𝘀 𝘄𝗼𝗿𝗸𝘀 𝗼𝗻𝗹𝘆 𝗼𝗻 𝗴𝗿𝗼𝘂𝗽𝘀.
+• 𝗧𝗵𝗲𝘀𝗲 𝗰𝗼𝗺𝗺𝗮𝗻𝗱𝘀 𝗰𝗮𝗻 𝗯𝗲 𝘂𝘀𝗲𝗱 𝗯𝘆 𝗮𝗻𝘆 𝗴𝗿𝗼𝘂𝗽 𝗺𝗲𝗺𝗯𝗲𝗿.."""
 
     ADMIN_TXT = """Help: <b>Admin Mods</b>
 
 <b>NOTE:</b>
-This module only works for my admins
+𝗧𝗵𝗶𝘀 𝗺𝗼𝗱𝘂𝗹𝗲 𝗼𝗻𝗹𝘆 𝘄𝗼𝗿𝗸𝘀 𝗳𝗼𝗿 𝗺𝘆 𝗮𝗱𝗺𝗶𝗻𝘀
 
 <b>Commands and Usage:</b>
 • /logs - to get the rescent errors.
@@ -231,10 +232,10 @@ Name - {}"""
 <b>Kick incative members from group. Add me as admin with ban users permission in group.</b>
 
 <b>Commands and Usage:</b>
-• /inkick - command with required arguments and i will kick members from group.
-• /instatus - to check current status of chat member from group.
+• /inkick - 𝗰𝗼𝗺𝗺𝗮𝗻𝗱 𝘄𝗶𝘁𝗵 𝗿𝗲𝗾𝘂𝗶𝗿𝗲𝗱 𝗮𝗿𝗴𝘂𝗺𝗲𝗻𝘁𝘀 𝗮𝗻𝗱 𝗶 𝘄𝗶𝗹𝗹 𝗸𝗶𝗰𝗸 𝗺𝗲𝗺𝗯𝗲𝗿𝘀 𝗳𝗿𝗼𝗺 𝗴𝗿𝗼𝘂𝗽.
+• /instatus - 𝘁𝗼 𝗰𝗵𝗲𝗰𝗸 𝗰𝘂𝗿𝗿𝗲𝗻𝘁 𝘀𝘁𝗮𝘁𝘂𝘀 𝗼𝗳 𝗰𝗵𝗮𝘁 𝗺𝗲𝗺𝗯𝗲𝗿 𝗳𝗿𝗼𝗺 𝗴𝗿𝗼𝘂𝗽..
 • /inkick within_month long_time_ago - to kick users who are offline for more than 6-7 days.
-• /inkick long_time_ago - to kick members who are offline for more than a month and Deleted Accounts.
+• /inkick long_time_ago - 𝘁𝗼 𝗸𝗶𝗰𝗸 𝗺𝗲𝗺𝗯𝗲𝗿𝘀 𝘄𝗵𝗼 𝗮𝗿𝗲 𝗼𝗳𝗳𝗹𝗶𝗻𝗲 𝗳𝗼𝗿 𝗺𝗼𝗿𝗲 𝘁𝗵𝗮𝗻 𝗮 𝗺𝗼𝗻𝘁𝗵 𝗮𝗻𝗱 𝗗𝗲𝗹𝗲𝘁𝗲𝗱 𝗔𝗰𝗰𝗼𝘂𝗻𝘁𝘀.
 • /dkick - to kick deleted accounts."""
 
     CREATOR_REQUIRED = """❗You have to be the group creator to do that."""
